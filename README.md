@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/coy17a/coy17a/master/github_coy.png" alt="Banner that says: I'm Alejandro Coy">
 <!--
