@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/coy17a/coy17a/master/github_coy.png" alt="Banner that says: I'm Alejandro Coy">
+<img src="https://raw.githubusercontent.com/coy17a/coy17a/master/coy_banner.png" alt="Banner that says: I'm Alejandro Coy">
 <!--
 **coy17a/coy17a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
